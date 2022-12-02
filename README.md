@@ -12,3 +12,5 @@ sends ECMASCript Module specifiers array. and ECMAScript export object array , e
  [importSpecifierIdx, 'exportProperty'], // suggest entrypoint
 ];
 ```
+
+this allows us to send whole applications as also news and any other information in one or multiple formats fully auditable so that it is secure.
