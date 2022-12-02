@@ -8,7 +8,7 @@ sends ECMASCript Module specifiers array. and ECMAScript export object array , e
 ```js
 [
  [], // importSpecifier Array
- [], // exportSpecifier Array matching the import array in order
+ [], // exportSpecifier Array matching the import array in order // mainly used for bundling and introspection without iteration.
  [importSpecifierIdx, 'exportProperty'], // suggest entrypoint aka main default of a Web Bundle
 ];
 ```
